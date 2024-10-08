@@ -1,0 +1,18 @@
+[
+  {
+    "type": "backgroundColor",
+    "values": ["black", "white", "yellow", "orange"]
+  },
+  {
+    "type": "pattern",
+    "values": ["striped", "spotted", "plain", "patchy"]
+  },
+  {
+    "type": "build",
+    "values": ["slender", "stocky", "sporty", "skinny"]
+  },
+  {
+    "type": "size",
+    "values": ["small", "medium", "large", "gigantic"]
+  }
+]
